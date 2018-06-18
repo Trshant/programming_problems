@@ -2,4 +2,7 @@ node_modules
 build
 npm-debug.log
 .env
+*.bot
+package.json
+package-lock.json
 .DS_Store
